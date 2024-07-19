@@ -11,7 +11,8 @@ Como me encontrar
 Email: Thaliferfre@gmail.com
 LinkedIn: Thalita Fernanda Freitas
 GitHub: ThaliFerFre
+
 Curiosidade
+
 Adoro resolver problemas complexos com código! Estou sempre em busca de novos desafios que me permitam explorar e expandir meus conhecimentos.
 
-Você pode copiar e colar esse texto no seu perfil do GitHub. Se precisar de mais alguma coisa ou ajustes, é só avisar!
