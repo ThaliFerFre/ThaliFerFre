@@ -1,5 +1,7 @@
 ThaliFerFre
-Sobre Mim
+
+Sobre Mim:
+
 Sou apaixonada por programação, tecnologia e desenvolvimento web. Atualmente, estou focada em aprender Java, especialmente no desenvolvimento back-end. Meu objetivo é colaborar em projetos open source e continuar aprendendo com a comunidade de desenvolvedores.
 
 Objetivos
